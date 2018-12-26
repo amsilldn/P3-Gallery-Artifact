@@ -1,6 +1,7 @@
 # P3-Gallery-Artifact
 ### I400 Prototyping With Arduino Tools Project 3: Gallery Artifact
 Device built and programmed by Amanda Sill
+
 Components:
 * 1 Arduino Uno
 * 1 4-digit 7-segment display
