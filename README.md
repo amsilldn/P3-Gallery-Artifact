@@ -10,5 +10,7 @@ Components:
 * 20 gauge wire
 * Magnets
 * Glue
+
 Housing was made with a combination of laser cutting, 3D printing, and plaster cast for texture.
+
 Time is displayed in 24 hour format on the 7-segment display. On the top of the hour (the it is 00 minutes) the neopixels turn on for 60 seconds; their brightness is controlled by the potentiometer.
